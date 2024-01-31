@@ -1,6 +1,8 @@
-# Neural Network Architecture Summary
+# Attention Based Speech Recognition
 
-## Overall Architecture
+Notebooks can be run in sequential order to train the models and show example outputs (which display in jupyter) and generate metrics.
+
+## Neural Network Architecture Summary
 
 The neural network architecture comprises a listener feature embedder and a speller. The listener feature embedder processes input data with shape [128, 1621, 27], and the speller generates output with shape [128, 328]. The architecture is composed of a total of 3954 layers.
 
