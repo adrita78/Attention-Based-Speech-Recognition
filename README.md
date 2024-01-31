@@ -1,6 +1,6 @@
 # Attention Based Speech Recognition- 11-785 CMU
 
-Notebooks can be run in sequential order to train the models and show example outputs (which display in jupyter) and generate metrics.
+The notebook can be run in sequential order to train the models and show example outputs (which display in jupyter) and generate metrics.
 
 ## Neural Network Architecture Summary
 
